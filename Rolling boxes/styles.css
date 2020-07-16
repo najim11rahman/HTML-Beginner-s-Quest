@@ -1,0 +1,30 @@
+*{
+	margin: 10px;
+	padding: 10px;
+	background-color: black
+}
+
+p{
+	color: white;
+	background-color: transparent;
+	font-size: 50px;
+	padding-top: 40px;
+	text-align: center;
+}
+.box{
+  width:200px;
+  height:200px;
+  background-color:red;
+  border:10px solid white;
+  margin-bottom:20px;
+}
+
+.box1{
+  transition: transform 2s linear, border-radius 2s linear;
+  animation-iteration-count: infinite;
+}
+
+.container:hover .box{
+  transform: translateX(700px) rotate(360deg);
+  border-radius:50%;
+}
