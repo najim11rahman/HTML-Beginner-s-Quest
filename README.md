@@ -7,6 +7,7 @@ Here you can find:
 3. Center an image [or divs, containers] to the exact center of the screen.
 4. More alignment using Flexbox
 5. Responsive web using Media Queries
+6. Animation of Rolling of Boxes
 
 
 
