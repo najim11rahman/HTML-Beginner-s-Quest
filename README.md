@@ -6,6 +6,7 @@ Here you can find:
 2. Glowing Bulb while hovering mouse over it
 3. Center an image [or divs, containers] to the exact center of the screen.
 4. More alignment using Flexbox
+5. Responsive wenb using Media Queries
 
 
 
