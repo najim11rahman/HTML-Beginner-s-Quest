@@ -10,8 +10,4 @@ Here you can find:
 6. Animation of Rolling of Boxes
 7. Animation car moving accordance to the traffic signal
 8. Expanding balls animation in Loading Page
-9. Input Color and view them [using Javascript]
 
-
-
-More.......Coming soon
